@@ -1,0 +1,3 @@
+[submodule "openapi_submodule"]
+	path = openapi_submodule
+	url = https://github.com/okta/openapi.git
